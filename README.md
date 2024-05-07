@@ -1,2 +1,2 @@
 # App-Dev-Profile
-This project is only front-end of my profile. 
+This project is in Angular. A front-end profile of mine.
